@@ -58,7 +58,9 @@ export class MyNoHostComponent implements OnInit, AfterViewInit {
 ![](https://vsmarketplacebadge.apphb.com/downloads/hamedfathi.angular-nohost.svg)
 ![](https://vsmarketplacebadge.apphb.com/rating/hamedfathi.angular-nohost.svg)
 
-This snippet code `ngx-noHost` helps you write your `no-host` components faster. [Install from here](https://marketplace.visualstudio.com/items?itemName=hamedfathi.angular-nohost). 
+This snippet code `ngx-nohost` helps you write your `no-host` components faster. [Install from here](https://marketplace.visualstudio.com/items?itemName=hamedfathi.angular-nohost). 
+
+![ngx-nohost](https://user-images.githubusercontent.com/8418700/182196135-6ac0cdbd-f2d9-4657-bc1b-ee2427a92826.gif)
 
 
 
