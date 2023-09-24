@@ -20,6 +20,7 @@ import {
 } from '@angular/core';
 
 @Component({
+  standalone: true, // or false
   selector: 'my-nohost-component',
   // Keep the same structure is necessary. 
   // Put any component's detail inside 'ng-template'.
