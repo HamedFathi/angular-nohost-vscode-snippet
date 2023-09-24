@@ -3,9 +3,9 @@
     "displayName": "angular-nohost",
     "description": "A no-host component snippet for Angular 2+.",
     "version": "1.1.0",
-	"publisher": "hamedfathi",
-	"icon": "icon.png",
-	"homepage": "https://github.com/HamedFathi/angular-nohost-vscode-snippet",
+    "publisher": "hamedfathi",
+    "icon": "icon.png",
+    "homepage": "https://github.com/HamedFathi/angular-nohost-vscode-snippet",
     "bugs": {
         "url": "https://github.com/HamedFathi/angular-nohost-vscode-snippet/issues"
     },
