@@ -1,8 +1,3 @@
-> [!IMPORTANT] 
-> Introducing **HamedStack**! For all my latest libraries, visit: [Explore HamedStack](https://github.com/HamedStack). Replacements and updates are available at the link. Thank you for your support! The new version of this library is accessible via [HamedStack.Angular.NoHost.Snippet](https://github.com/HamedStack/HamedStack.Angular.NoHost.Snippet)
----
-
-
 ![ngx](https://user-images.githubusercontent.com/8418700/143725233-c5b3320c-30ab-4077-9939-9b37dd6be5db.png)
 
 ## Problem
